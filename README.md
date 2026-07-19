@@ -1,13 +1,8 @@
 # 🌐 Dynamic Developer Portfolio | Desmond Beh
 
-[![HTML5](https://img.shields.io/badge/Structure-HTML5-orange.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-06B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![JavaScript](https://img.shields.io/badge/Logic-JavaScript%20ES6-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Status](https://img.shields.io/badge/Status-Actively%20Seeking%20Internship-brightgreen.svg)](#)
-
 Welcome! This repository hosts the complete source code and architectural layout for my professional web portfolio. Built from scratch with a focus on responsive layout design, clean UI syntax, and high-performance client-side rendering.
 
-🎯 **Live Demo:** [Insert Your GitHub Pages / Live Link Here]
+🎯 **Live Demo:** [https://db-halowei.github.io/desmond-portfolio/]
 
 ---
 
