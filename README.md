@@ -33,12 +33,12 @@ I am a highly driven **Computer Science (Honours) Student** at Universiti Tunku 
 ### 1. FICT Student Management System ── `C++` `MS Visual Studio 2022`
 * An optimized data management portal utilizing custom **Binary Search Trees (BST)** to handle high-speed indexing and searching of student records.
 * Implemented deep-tree recursive traversal algorithms to systematically locate leaf nodes, manage path routing, and execute memory-safe subtree cloning frameworks.
-* 📂 *[View Project Repository](https://github.com/db-halowei/your-cpp-repo-link)*
+* 📂 *[View Project Repository](https://github.com/db-halowei/FICT-Student-Management-System)*
 
 ### 2. Library Management System ── `Python` `PyCharm`
 * Architected a modular backend terminal portal utilizing core **Object-Oriented Programming (OOP)** design patterns to track asset lifecycles and member parameters.
 * Formulated automated runtime state persistence mechanisms processing raw file streams via robust JSON structural formatting and built-in error handling protocols.
-* 📂 *[View Project Repository](https://github.com/db-halowei/your-python-repo-link)*
+* 📂 *[View Project Repository](https://github.com/db-halowei/Library-Management-System)*
 
 ---
 
