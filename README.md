@@ -2,8 +2,6 @@
 
 Welcome! This repository hosts the complete source code and architectural layout for my professional web portfolio. Built from scratch with a focus on responsive layout design, clean UI syntax, and high-performance client-side rendering.
 
-🎯 **Live Demo:** [https://db-halowei.github.io/desmond-portfolio/]
-
 ---
 
 ## 👨‍💻 About Me
@@ -57,5 +55,5 @@ I am a highly driven **Computer Science (Honours) Student** at Universiti Tunku 
 I am actively seeking an **Internship opportunity** where I can contribute my engineering skills to real-world software solutions. Let's connect!
 
 * **📧 Email:** [desmondbeh168@gmail.com](mailto:desmondbeh168@gmail.com)
-* **💼 LinkedIn:** [Link to Your LinkedIn Profile]
-* **🌐 Portfolio:** [Insert Your Portfolio Link]
+* **💼 LinkedIn:** [https://www.linkedin.com/in/desmonddd-beh/]
+* **🌐 Portfolio:** [https://db-halowei.github.io/desmond-portfolio/]
