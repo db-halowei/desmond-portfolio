@@ -32,7 +32,7 @@ I am a highly driven **Computer Science (Honours) Student** at Universiti Tunku 
 
 ## 🚀 Featured Engineering Projects (Showcased Here)
 
-### 1. FICT Student Management System ── `C++` `Visual Studio`
+### 1. FICT Student Management System ── `C++` `MS Visual Studio 2022`
 * An optimized data management portal utilizing custom **Binary Search Trees (BST)** to handle high-speed indexing and searching of student records.
 * Implemented deep-tree recursive traversal algorithms to systematically locate leaf nodes, manage path routing, and execute memory-safe subtree cloning frameworks.
 * 📂 *[View Project Repository](https://github.com/db-halowei/your-cpp-repo-link)*
